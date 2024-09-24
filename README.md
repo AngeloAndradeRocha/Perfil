@@ -29,12 +29,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats]([https://github-readme-stats.vercel.app/api?username=AngeloAndradeRocha&show_icons=true&theme=gotham](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif))
+![VariableBee GitHub stats]([https://github-readme-stats.vercel.app/api?username=AngeloAndradeRocha&show_icons=true&theme=gotham])
 
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
